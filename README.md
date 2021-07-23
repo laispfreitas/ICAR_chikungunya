@@ -2,7 +2,7 @@
 
 This repository includes the codes used for the study: "Spatio-temporal modelling of the first Chikungunya epidemic in an intra-urban setting: the role of socioeconomic status, environment and temperature", by Laís Picinini Freitas, Alexandra M. Schmidt, William Cossich, Oswaldo Gonçalves Cruz, and Marilia Sá Carvalho.
 
-Preprint: https://doi.org/10.1101/2020.06.08.20125757
+Publication at PLOS NTDs: https://doi.org/10.1371/journal.pntd.0009537
 
 ## Abstract
 
