@@ -7,7 +7,7 @@
 
 ## Last update: 8 July 2020
 
-## Preprint: https://www.medrxiv.org/content/10.1101/2020.06.08.20125757v1 
+## Publication at PLOS NTDs: https://doi.org/10.1371/journal.pntd.0009537
 
 ## Objective: 
 # To study the spatio-temporal dynamics of the first chikungunya epidemic in Rio de 
