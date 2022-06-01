@@ -1,5 +1,7 @@
 # ICAR_chikungunya
 
+[![DOI](https://zenodo.org/badge/270827676.svg)](https://zenodo.org/badge/latestdoi/270827676)
+
 This repository includes the codes used for the study: "Spatio-temporal modelling of the first Chikungunya epidemic in an intra-urban setting: the role of socioeconomic status, environment and temperature", by Laís Picinini Freitas, Alexandra M. Schmidt, William Cossich, Oswaldo Gonçalves Cruz, and Marilia Sá Carvalho.
 
 Publication at PLOS NTDs: https://doi.org/10.1371/journal.pntd.0009537
